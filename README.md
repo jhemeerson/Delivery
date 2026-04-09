@@ -2,7 +2,13 @@
 
 ## Análise empresa de Delivery:
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51c99cae-ba8d-4864-805e-d1ed032e22a4" />
+</div>
+
 ### Eficiência, Rapidez e Experiência do Cliente.
+
+[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
 
 ### Panorama Geral e Crescimento
 
