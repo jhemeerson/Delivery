@@ -34,4 +34,5 @@ O gráfico de Pedidos por Dia mostra uma volatilidade controlada, com picos que 
 
 <br>
 
-[Portfólio:](https://portfolio-jhemerson-oliveira.lovable.app/)
+[Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
+
