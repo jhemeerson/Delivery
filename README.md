@@ -8,7 +8,7 @@
 
 ### Eficiência, Rapidez e Experiência do Cliente.
 
-[Relatório Online:](https://app.powerbi.com/view?r=eyJrIjoiNjc3NjM4YmMtY2EwNC00MTJlLWE0NTgtNWIzMTgzYWMyYjdlIiwidCI6ImY3YTVkZDQwLTZjODctNDE0Yy1hMjBlLTgxNmJiM2JjM2ZiYSJ9)
+[Relatório Online:](https://app.powerbi.com/groups/me/reports/13e2ccc2-effe-41fd-bbfe-1c1cf7da91bc/5e7fc5b110b0b135ed58?language=pt-BR&experience=power-bi)
 
 ### Panorama Geral e Crescimento
 
