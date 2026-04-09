@@ -8,7 +8,7 @@
 
 <br>
 
-[Relatório Online:](https://app.powerbi.com/groups/me/reports/13e2ccc2-effe-41fd-bbfe-1c1cf7da91bc/5e7fc5b110b0b135ed58?language=pt-BR&experience=power-bi)
+[Relatório Online: Delivery.](https://app.powerbi.com/groups/me/reports/13e2ccc2-effe-41fd-bbfe-1c1cf7da91bc/5e7fc5b110b0b135ed58?language=pt-BR&experience=power-bi)
 
 ### Panorama Geral e Crescimento
 
