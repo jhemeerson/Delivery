@@ -6,7 +6,7 @@
 <img src="https://github.com/user-attachments/assets/51c99cae-ba8d-4864-805e-d1ed032e22a4" />
 </div>
 
-### Eficiência, Rapidez e Experiência do Cliente.
+<br>
 
 [Relatório Online:](https://app.powerbi.com/groups/me/reports/13e2ccc2-effe-41fd-bbfe-1c1cf7da91bc/5e7fc5b110b0b135ed58?language=pt-BR&experience=power-bi)
 
@@ -25,3 +25,13 @@ Modalidades de Frete: A modalidade Econômica é a preferida (21,5 mil pedidos),
 ### Sazonalidade e Picos de Demanda
 
 O gráfico de Pedidos por Dia mostra uma volatilidade controlada, com picos que chegam a 1,8 mil pedidos/dia. Nota-se uma queda cíclica acentuada (vales próximos a 1,6 mil), provavelmente em dias de início de semana, o que sugere a necessidade de campanhas promocionais agressivas para "achatar" essa curva de ociosidade logística.
+
+<br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a523c786-9dd9-4cdf-91cc-b4298dd6adf9" />
+</div>
+
+<br>
+
+[Portfólio:](https://portfolio-jhemerson-oliveira.lovable.app/)
