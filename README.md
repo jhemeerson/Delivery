@@ -10,6 +10,8 @@
 
 [Relatório Online: Delivery.](https://app.powerbi.com/groups/me/reports/13e2ccc2-effe-41fd-bbfe-1c1cf7da91bc/5e7fc5b110b0b135ed58?language=pt-BR&experience=power-bi)
 
+---
+
 ### 1. Panorama Geral e Crescimento
 
 **Faturamento e Volume**: Alcançamos **R$ 83,4 mil** em faturamento com um total de **52,9 mil** pedidos. O crescimento anual (YoY) de **97%** no faturamento e de **107%** em pedidos indica que a operação praticamente dobrou de tamanho em relação ao ano anterior, mantendo uma saúde financeira sólida.
@@ -26,7 +28,7 @@ Modalidades de Frete: A modalidade Econômica é a preferida (21,5 mil pedidos),
 
 O gráfico de Pedidos por Dia mostra uma volatilidade controlada, com picos que chegam a 1,8 mil pedidos/dia. Nota-se uma queda cíclica acentuada (vales próximos a 1,6 mil), provavelmente em dias de início de semana, o que sugere a necessidade de campanhas promocionais agressivas para "achatar" essa curva de ociosidade logística.
 
-<br>
+---
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a523c786-9dd9-4cdf-91cc-b4298dd6adf9" />
